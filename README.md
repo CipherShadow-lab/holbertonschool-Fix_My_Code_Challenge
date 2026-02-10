@@ -1,4 +1,4 @@
-Fix My Code Challenge
+# Fix My Code Challenge
 
 Fix my code is a new type of project, where an existing code base is reviewed and fixed!
 
